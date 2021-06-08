@@ -40,7 +40,7 @@ msgstr "mm. c.s"
 #: ../package/contents/code/unit-utils.js:59
 #: ../package/contents/ui/config/ConfigUnits.qml:127
 msgid "hPa"
-msgstr ""
+msgstr "hPa"
 
 #: ../package/contents/code/unit-utils.js:86
 #: ../package/contents/ui/config/ConfigUnits.qml:172
